@@ -1,0 +1,10 @@
+.body-box {
+	margin-top: 2rem;
+	background: #64656663;
+	color: rgba(245, 243, 243, 0.897);
+	padding: 10px;
+	font-size: 20px;
+	font-weight: 30px;
+	border: none !important;
+	box-shadow: 0 7px 16px #190ae9, 0 4px 5px #190ae9;
+}

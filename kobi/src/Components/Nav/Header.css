@@ -1,0 +1,17 @@
+.nav-bar {
+	margin-top: 1rem;
+	background: #64656663;
+	color: rgb(243, 19, 19);
+	padding: 10px;
+	font-size: 30px;
+	font-weight: 50px;
+	border: none !important;
+	box-shadow: 0 7px 16px #190ae9, 0 4px 5px #190ae9;
+}
+.header-logo {
+	font-size: 50px;
+	color: aliceblue;
+}
+.navfont {
+	color: black;
+}
